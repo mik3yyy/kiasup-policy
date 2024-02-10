@@ -8,9 +8,7 @@ If you choose to use our Service, then you agree to the collection and use of in
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
 ### Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, Phone number, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third party services that may collect information used to identify you. 
-----------------
+
 To enhance your experience with our app, we require certain personal information from you. This includes, but is not limited to, your name, email address, phone number, gender, location, and photos. We collect this information to provide and improve our services to you.
 
 ## How We Use Your Information:
