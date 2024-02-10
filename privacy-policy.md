@@ -10,6 +10,20 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 ### Information Collection and Use  
 For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, Phone number, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
 The app does use third party services that may collect information used to identify you. 
+----------------
+To enhance your experience with our app, we require certain personal information from you. This includes, but is not limited to, your name, email address, phone number, gender, location, and photos. We collect this information to provide and improve our services to you.
+
+## How We Use Your Information:
+
+Kiasup collects: Your personal information as mentioned above.
+Purpose: To personalize your experience, provide app functionality, and improve our services.
+Sharing: We may share your information with third-party services that help us operate our app. These third parties are prohibited from using your personal information for any other purpose.
+Prominent Disclosure:
+We want to be transparent about how we handle your data:
+
+Data Collection & Sharing: The app uses third-party services that may collect information capable of identifying you. We use this information to enhance your user experience and improve our services.
+Your Consent: We will ask for your explicit consent to collect, use, and share your information as described. This consent is obtained through an in-app prompt that requires your affirmative action (for example, tapping 'Agree').
+By using our service, you agree to the collection and use of information in accordance with this policy. Your data is treated with the utmost care and security, and will not be used in any way other than as described in our privacy policy.
 
 ### Cookies  
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
